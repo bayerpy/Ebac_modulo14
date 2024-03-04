@@ -1,0 +1,48 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color:blanchedalmond;
+}
+
+.nav .nav-link.active {
+    background-color: #ffffff;
+    color: black;
+}
+
+.nav .nav-link,
+.navbar-brand {
+    color: black;
+}
+
+.navbar-brand,
+.section-title {
+    font-family: Oswald, sans-serif;
+}
+
+.navbar-toggler {
+    background-color: #ffffff;
+}
+
+.text-img {
+    color: black;
+    background-color: aliceblue;
+}
+
+.news {
+    background-color: burlywood;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.fale-conosco {
+    background-color: bisque;
+}
